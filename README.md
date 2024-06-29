@@ -10,6 +10,12 @@ Um repositório simples que faz a aplicação da linguagem Java e tambem o uso d
 `prosseguir` `com` `a` `instalação` e `finalizar`
 
 
+
+
+
+
+
+
 `instalação das dependências no linux`
 
 `sudo apt update`
