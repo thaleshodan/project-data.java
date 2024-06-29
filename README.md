@@ -5,7 +5,7 @@ Um repositório simples que faz a aplicação da linguagem Java e tambem o uso d
 
  `PostgreSQL` `banco` `de` `dados`
 
-`acessar` `a` página `do` `PostgreSQL`
+`acessar` `a` `página` `do` `PostgreSQL`
 `Https://www.postgreesql.org/download/windows`
 `prosseguir` `com` `a` `instalação` e `finalizar`
 
