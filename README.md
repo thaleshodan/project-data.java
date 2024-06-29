@@ -24,4 +24,6 @@ sudo systemctl status postgreesql
 sudo -i -u postgres psql
 ```
 
-Depois desses passos basta apenas colocar as tabelas do seu projeto e atrelar elas ao seu código no visual code Studio.
+Depois desses passos basta apenas colocar as tabelas do seu projeto e atrelar elas ao seu código no visual code Studio
+ou na IDE de sua preferencia para aplicar as tecnologias e usa-las para gerenciar os pedidos da sua empresa e seu time de T.I
+otimizando o processo de envio de dados e requisições.
